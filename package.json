@@ -1,0 +1,10 @@
+{
+  "name": "js-nvtus5",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@ag-grid-community/core": "^25.x",
+    "ag-grid-autocomplete-editor": "^3.0.0",
+    "ag-grid-community": "^25.1.0"
+  }
+}
